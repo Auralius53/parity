@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.topName {
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.pageContainer {
+  border: 1px solid white;
+  width: 665px;
+  height: 800px;
+  margin: auto;
+}
+
+.headerBarList {
+  list-style-type: none;
+  margin: auto;
+  text-align: center;
+  border: 1px solid white;
+}
+
+.headerBar {
+  text-decoration: none;
+  font-size: 19px;
+  color: #134799;
+}
+
+.headerBarListStyle {
+  display: inline;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+.topName {
+  font-size: 30px;
+}
+
+center {
+  font-size: 14px;
+}
+
+.blogDate {
+  font-size: smaller;
+  color: #565151;
+}
+
+nav a {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
